@@ -58,10 +58,6 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 ## 📊 **Weekly Dev Metrics**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saideep-arikontham&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideep-arikontham&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=radical&hide_border=true&background=0D1117" height="180"/>
