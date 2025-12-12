@@ -54,7 +54,6 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 ## 📊 **Daily Dev Metrics**
 
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=radical&hide_border=true&background=0D1117" height="180"/>
 </div>
@@ -118,10 +117,32 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 ## 💼 **Professional Impact**
 
-| **Role & Company** | **High-Impact Outcomes** |
-|--------------------|--------------------------|
-| **Data Scientist**<br/>*Institute for Experiential AI* | • **$300k Saved**: NLP pipeline on 172k documents.<br/>• **97% Capture Rate**: Complexity prediction model.<br/>• **2× Faster Ops**: Agentic AI workflow (4 → 2 days). |
-| **Data Scientist**<br/>*LTIMindtree* | • **800+ Hours Saved**: LLM-based ticket classifier.<br/>• **6% Accuracy Lift**: RNN→LLM comparative analysis.<br/>• **30% Faster**: Azure Synapse & PySpark optimization. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧬 Institute for Experiential AI</h3>
+<div align="center"><i>Data Scientist</i></div>
+<br/>
+
+• 💸 **$300k Saved**: Orchestrated NLP pipeline for 172k documents.<br/>
+• 🎯 **97% Capture Rate**: Engineered ML model for claim complexity.<br/>
+• ⚡ **2× Faster Ops**: Optimized Agentic AI workflow (4 → 2 days).
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🔷 LTIMindtree</h3>
+<div align="center"><i>Data Scientist</i></div>
+<br/>
+
+• ⏳ **800+ Hours Saved**: Deployed LLM-based ticket classifier.<br/>
+• 📈 **6% Accuracy Lift**: Validated RNN vs LLM performance.<br/>
+• 🚀 **30% Faster**: Optimized Azure Synapse & PySpark pipelines.
+
+</td>
+</tr>
+</table>
 
 ---
 
