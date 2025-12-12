@@ -94,55 +94,27 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 <!--                            PROFESSIONAL EXPERIENCE                        -->
 <!-- ======================================================================= -->
 
-## 💼 **Professional Impact**
+## 💼 **Professional Experience**
 
-<div align="center">
+<!-- Experience 1 -->
+### 🧬 **Institute for Experiential AI**
+<img src="https://img.shields.io/badge/Data%20Scientist-7AA2F7?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Portland,_ME-1a1b27?style=flat-square" /> <img src="https://img.shields.io/badge/July_2024_--_June_2025-1a1b27?style=flat-square" />
 
-<table>
-<tr>
+> **Key Impact**
+> * 💸 **$300k Saved**: Constructed NLP pipeline for extraction of 172,000 documents.
+> * 🎯 **97% Capture Rate**: Engineered ML model for claim complexity classification.
+> * ⚡ **50% Faster Validation**: Reduced claim processing from 4 to 2 days using Agentic AI.
 
-<td width="50%" valign="top">
-<div style="
-  background: linear-gradient(180deg, #1a1b27 0%, #11121a 100%);
-  border-radius: 16px;
-  padding: 20px;
-  box-shadow: 0 0 12px rgba(125, 85, 255, 0.25);
-  color: #e5e5e5;
-  font-size: 15px;
-">
-  <h3 align="center" style="margin: 0; color:#a78bfa;">Institute for Experiential AI</h3>
-  <div align="center"><i style="color:#7dd3fc;">Data Scientist</i></div>
-  <hr style="border: 0; border-top: 1px solid #2a2a3d;">
-  
-  • 💸 <b>$300k Saved</b>: NLP pipeline for 172k documents.<br/>
-  • 🎯 <b>97% Capture Rate</b>: Claim complexity prediction.<br/>
-  • ⚡ <b>2× Faster Ops</b>: Agentic AI workflow improvement.
-</div>
-</td>
+<br/>
 
-<td width="50%" valign="top">
-<div style="
-  background: linear-gradient(180deg, #1a1b27 0%, #11121a 100%);
-  border-radius: 16px;
-  padding: 20px;
-  box-shadow: 0 0 12px rgba(85, 155, 255, 0.25);
-  color: #e5e5e5;
-  font-size: 15px;
-">
-  <h3 align="center" style="margin: 0; color:#60a5fa;">LTIMindtree</h3>
-  <div align="center"><i style="color:#7dd3fc;">Data Scientist</i></div>
-  <hr style="border: 0; border-top: 1px solid #2a2a3d;">
-  
-  • ⏳ <b>800+ Hours Saved</b>: LLM ticket classifier.<br/>
-  • 📈 <b>6% Accuracy Lift</b>: RNN vs LLM study.<br/>
-  • 🚀 <b>30% Faster</b>: Azure Synapse & PySpark optimization.
-</div>
-</td>
+<!-- Experience 2 -->
+### 🔷 **LTIMindtree**
+<img src="https://img.shields.io/badge/Data%20Scientist-7AA2F7?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Hyderabad,_India-1a1b27?style=flat-square" /> <img src="https://img.shields.io/badge/Aug_2021_--_July_2023-1a1b27?style=flat-square" />
 
-</tr>
-</table>
-
-</div>
+> **Key Impact**
+> * ⏳ **800+ Hours Saved**: Developed LLM-based ticket classifier to filter invalid tickets.
+> * 📈 **6% Accuracy Lift**: Demonstrated RNN vs LLM efficacy via hypothesis testing.
+> * 🚀 **30% Faster ETL**: Optimized Azure Synapse & PySpark pipelines for C-suite reporting.
 
 
 
