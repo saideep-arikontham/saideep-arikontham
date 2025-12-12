@@ -101,7 +101,6 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 <table>
 <tr>
 
-<!-- ========================= I N S T I T U T E   F O R   E X P E R I E N T I A L   A I ========================= -->
 <td width="50%" valign="top">
 <div style="
   background: linear-gradient(180deg, #1a1b27 0%, #11121a 100%);
@@ -111,26 +110,16 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
   color: #e5e5e5;
   font-size: 15px;
 ">
-
-  <div align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhprXyoqkiU3wQSYyQ-oOhyqEVpGang-5Dw&s" 
-         width="70" height="70" 
-         style="border-radius: 12px; margin-bottom: 10px;" />
-  </div>
-
-  <h3 align="center" style="margin: 0; color:#a78bfa;">🧬 Institute for Experiential AI</h3>
+  <h3 align="center" style="margin: 0; color:#a78bfa;">Institute for Experiential AI</h3>
   <div align="center"><i style="color:#7dd3fc;">Data Scientist</i></div>
-  <hr style="border: 0; border-top: 1px solid #2a2a3d; margin: 12px 0;">
-
+  <hr style="border: 0; border-top: 1px solid #2a2a3d;">
+  
   • 💸 <b>$300k Saved</b>: NLP pipeline for 172k documents.<br/>
   • 🎯 <b>97% Capture Rate</b>: Claim complexity prediction.<br/>
   • ⚡ <b>2× Faster Ops</b>: Agentic AI workflow improvement.
-
 </div>
 </td>
 
-
-<!-- ========================= L T I M I N D T R E E ========================= -->
 <td width="50%" valign="top">
 <div style="
   background: linear-gradient(180deg, #1a1b27 0%, #11121a 100%);
@@ -140,21 +129,13 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
   color: #e5e5e5;
   font-size: 15px;
 ">
-
-  <div align="center">
-    <img src="https://assets.bizclikmedia.net/290/c92797648b3dd9931d822c47d65e7131:46307b9de271a806b9d85dce2324022b/ltimindtree-1.jpg" 
-         width="70" height="70" 
-         style="border-radius: 12px; margin-bottom: 10px;" />
-  </div>
-
-  <h3 align="center" style="margin: 0; color:#60a5fa;">🔷 LTIMindtree</h3>
+  <h3 align="center" style="margin: 0; color:#60a5fa;">LTIMindtree</h3>
   <div align="center"><i style="color:#7dd3fc;">Data Scientist</i></div>
-  <hr style="border: 0; border-top: 1px solid #2a2a3d; margin: 12px 0;">
-
+  <hr style="border: 0; border-top: 1px solid #2a2a3d;">
+  
   • ⏳ <b>800+ Hours Saved</b>: LLM ticket classifier.<br/>
-  • 📈 <b>6% Accuracy Lift</b>: RNN → LLM transition.<br/>
-  • 🚀 <b>30% Faster Pipelines</b>: Synapse + PySpark optimization.
-
+  • 📈 <b>6% Accuracy Lift</b>: RNN vs LLM study.<br/>
+  • 🚀 <b>30% Faster</b>: Azure Synapse & PySpark optimization.
 </div>
 </td>
 
@@ -162,6 +143,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 </table>
 
 </div>
+
 
 
 ---
