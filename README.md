@@ -31,13 +31,18 @@
 ## ⚡ **About Me**
 
 <br/>
-Hi, I'm **Saideep**, a Data Scientist with **3+ years** of experience building predictive models, LLM-powered systems, and scalable ML/AI pipelines.
+
+<div align="center">
+
+Hi, I'm **Saideep Arikontham**, a **Data Scientist with 3+ years** of experience building predictive models, LLM-powered systems, and scalable ML/AI pipelines.
 
 I specialize in **ML, Deep Learning, NLP, Agentic AI, and MLOps**, focusing on end-to-end solutions that deliver measurable value — from **$300k+ savings** to **sub-100ms inference latency**.
 
-🎓 **M.S. in Data Science** @ Northeastern University  
-🔭 Exploring **Agentic AI frameworks**, **retrieval pipelines**, and **LLM orchestration**  
-🚀 Passionate about **developing AI/ML solutions for enterprises**
+</div>
+
+> 🎓 **M.S. in Data Science** @ Northeastern University  
+> 🚀 Passionate about **developing AI/ML solutions for enterprises**
+> 🔭 Exploring **Agentic AI frameworks**, **retrieval pipelines**, and **LLM orchestration**
 
 ---
 
