@@ -97,7 +97,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 ## 💼 **Professional Experience**
 
 <!-- Experience 1 -->
-### 🧬 **Institute for Experiential AI**
+### **Institute for Experiential AI**
 <img src="https://img.shields.io/badge/Data%20Scientist-7AA2F7?style=flat-square" /> <img src="https://img.shields.io/badge/Portland,_ME-1a1b27?style=flat-square" /> <img src="https://img.shields.io/badge/July_2024_--_June_2025-1a1b27?style=flat-square" />
 
 > **Key Impact**
@@ -108,7 +108,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 <br/>
 
 <!-- Experience 2 -->
-### 🔷 **LTIMindtree**
+### **LTIMindtree**
 <img src="https://img.shields.io/badge/Data%20Scientist-7AA2F7?style=flat-square" /> <img src="https://img.shields.io/badge/Hyderabad,_India-1a1b27?style=flat-square" /> <img src="https://img.shields.io/badge/Aug_2021_--_July_2023-1a1b27?style=flat-square" />
 
 > **Key Impact**
@@ -128,44 +128,30 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 ## 📂 **Featured Projects**
 
-<table>
-<tr>
+### 📓 **arXiv RAG Chatbot**
+> *Semantic Search for Scientific Papers*
+>
+> Built production-grade **RAG system** with Streamlit & OpenSearch. Containerized **Airflow ETL** pipeline using Docker & Docling for parsing.
+>
+> <img src="https://img.shields.io/badge/RAG-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/OpenSearch-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2e2f4e?style=flat-square" />
 
-<td width="33%" valign="top">
+<br/>
 
-### 📓 arXiv RAG Chatbot  
-<i align="center">Semantic Search Engine for Research</i>
+### 📄 **Context-Aware Resume Evaluation**
+> *LLM-based Recruitment Tool*
+>
+> Fine-tuned **BigBird-Roberta** using LoRA on 4000+ resumes. Achieved **90% pairwise ranking accuracy** to reduce ATS bias.
+>
+> <img src="https://img.shields.io/badge/LLMs-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/Fine--Tuning-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/HuggingFace-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/NLP-2e2f4e?style=flat-square" />
 
-Production-ready **RAG system** using *OpenSearch*, *Streamlit*, and *Airflow*.  
-Containerized ETL with **Docling** for PDF parsing.  
-Built for reliability, modularity, and retrieval precision.
+<br/>
 
-</td>
-
-<td width="33%" valign="top">
-
-### 📄 Context-Aware Resume Evaluator  
-<i>LLM-powered Ranking System</i>
-
-Fine-tuned **BigBird-RoBERTa (LoRA)** on 4k+ resumes.  
-Achieved **90% pairwise ranking accuracy** to reduce ATS bias.  
-Full CI/CD workflow for model refresh.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🚗 Real-Time Accident Detection  
-<i>Computer Vision + Inference Optimization</i>
-
-Built **ResNet-based CNN** with OpenCV preprocessing.  
-Delivered **92% accuracy** and **sub-100ms latency**.  
-Deployed optimized PyTorch model for real-time streaming.
-
-</td>
-
-</tr>
-</table>
+### 🚗 **Real-Time Accident Detection**
+> *Computer Vision System*
+>
+> Developed **CNN + PyTorch** model achieving 92% accuracy. Optimized for **sub-100ms latency** using ResNet & OpenCV.
+>
+> <img src="https://img.shields.io/badge/Computer_Vision-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/PyTorch-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/CNNs-2e2f4e?style=flat-square" />
 
 ---
 
