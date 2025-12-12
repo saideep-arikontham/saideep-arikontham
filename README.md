@@ -103,35 +103,39 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 <td width="50%" valign="top">
 <div style="
-  background:#0d1117;
-  border:1px solid #2d2f36;
-  border-radius:14px;
-  padding:20px;
-  color:#d1d5db;
+  background: linear-gradient(180deg, #1a1b27 0%, #11121a 100%);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 0 12px rgba(125, 85, 255, 0.25);
+  color: #e5e5e5;
+  font-size: 15px;
 ">
-  <h3 align="center" style="margin:0; color:#a78bfa;">🧬 Institute for Experiential AI</h3>
-  <p align="center"><i>Data Scientist</i></p>
-
-  • <b>$300k savings</b> from NLP automation.<br/>
-  • <b>97% accuracy</b> in complexity model.<br/>
-  • <b>2× ops speed-up</b> using agentic workflows.
+  <h3 align="center" style="margin: 0; color:#a78bfa;">🧬 Institute for Experiential AI</h3>
+  <div align="center"><i style="color:#7dd3fc;">Data Scientist</i></div>
+  <hr style="border: 0; border-top: 1px solid #2a2a3d;">
+  
+  • 💸 <b>$300k Saved</b>: NLP pipeline for 172k documents.<br/>
+  • 🎯 <b>97% Capture Rate</b>: Claim complexity prediction.<br/>
+  • ⚡ <b>2× Faster Ops</b>: Agentic AI workflow improvement.
 </div>
 </td>
 
 <td width="50%" valign="top">
 <div style="
-  background:#0d1117;
-  border:1px solid #2d2f36;
-  border-radius:14px;
-  padding:20px;
-  color:#d1d5db;
+  background: linear-gradient(180deg, #1a1b27 0%, #11121a 100%);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 0 12px rgba(85, 155, 255, 0.25);
+  color: #e5e5e5;
+  font-size: 15px;
 ">
-  <h3 align="center" style="margin:0; color:#60a5fa;">🔷 LTIMindtree</h3>
-  <p align="center"><i>Data Scientist</i></p>
-
-  • <b>800+ hours saved</b> via LLM classifier.<br/>
-  • <b>6% accuracy boost</b> from model upgrade.<br/>
-  • <b>30% faster pipelines</b> via Synapse tuning.
+  <h3 align="center" style="margin: 0; color:#60a5fa;">🔷 LTIMindtree</h3>
+  <div align="center"><i style="color:#7dd3fc;">Data Scientist</i></div>
+  <hr style="border: 0; border-top: 1px solid #2a2a3d;">
+  
+  • ⏳ <b>800+ Hours Saved</b>: LLM ticket classifier.<br/>
+  • 📈 <b>6% Accuracy Lift</b>: RNN vs LLM study.<br/>
+  • 🚀 <b>30% Faster</b>: Azure Synapse & PySpark optimization.
 </div>
 </td>
 
