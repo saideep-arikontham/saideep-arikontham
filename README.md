@@ -98,7 +98,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 <!-- Experience 1 -->
 ### 🧬 **Institute for Experiential AI**
-<img src="https://img.shields.io/badge/Data%20Scientist-7AA2F7?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Portland,_ME-1a1b27?style=flat-square" /> <img src="https://img.shields.io/badge/July_2024_--_June_2025-1a1b27?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Scientist-7AA2F7?style=flat-square" /> <img src="https://img.shields.io/badge/Portland,_ME-1a1b27?style=flat-square" /> <img src="https://img.shields.io/badge/July_2024_--_June_2025-1a1b27?style=flat-square" />
 
 > **Key Impact**
 > * 💸 **$300k Saved**: Constructed NLP pipeline for extraction of 172,000 documents.
@@ -109,7 +109,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 <!-- Experience 2 -->
 ### 🔷 **LTIMindtree**
-<img src="https://img.shields.io/badge/Data%20Scientist-7AA2F7?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Hyderabad,_India-1a1b27?style=flat-square" /> <img src="https://img.shields.io/badge/Aug_2021_--_July_2023-1a1b27?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Scientist-7AA2F7?style=flat-square" /> <img src="https://img.shields.io/badge/Hyderabad,_India-1a1b27?style=flat-square" /> <img src="https://img.shields.io/badge/Aug_2021_--_July_2023-1a1b27?style=flat-square" />
 
 > **Key Impact**
 > * ⏳ **800+ Hours Saved**: Developed LLM-based ticket classifier to filter invalid tickets.
