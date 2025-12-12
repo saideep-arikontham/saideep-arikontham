@@ -59,7 +59,8 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 ## 📊 **Weekly Dev Metrics**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saideep-arikontham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="60%" />
+<!-- Using a simpler URL for reliability -->
+<img src="https://github-readme-stats.vercel.app/api?username=saideep-arikontham&show_icons=true&theme=tokyonight&hide_border=false" width="60%" />
 </div>
 
 <br/><br/>
@@ -72,7 +73,12 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,aws,azure,pytorch,tensorflow,docker,kubernetes,git,linux,postgres,mongodb,kafka,fastapi,flask,vscode,idea&perline=10&theme=dark" />
+<!-- Icons for supported tools -->
+<img src="https://skillicons.dev/icons?i=python,cpp,aws,azure,pytorch,sklearn,pandas,docker,postgres&theme=dark" />
+<br/>
+<!-- Badges for tools without simple icons in the set -->
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 
 <br/>
 
