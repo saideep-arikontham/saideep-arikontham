@@ -49,50 +49,6 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 <br/>
 
 <!-- ======================================================================= -->
-<!--                              WEEKLY STATS                                -->
-<!-- ======================================================================= -->
-
-## 📊 **Dev Metrics**
-
-<div align="center">
-  <!-- 🔥 Contribution Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=radical&hide_border=true&background=0D1117" 
-    height="180"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- 📈 Contribution Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saideep-arikontham&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" 
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- 👁️ Profile Views + Footer -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=saideep-arikontham&style=flat-square&color=blueviolet" 
-  />
-  
-  <br/><br/>
-  
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=tokyonight" 
-    width="100%" 
-  />
-</div>
-
-
-
-
-<br/><br/>
-
-<!-- ======================================================================= -->
 <!--                               TECH STACK                                 -->
 <!-- ======================================================================= -->
 
@@ -140,32 +96,50 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 ## 💼 **Professional Impact**
 
+<div align="center">
+
 <table>
 <tr>
+
 <td width="50%" valign="top">
+<div style="
+  background:#0d1117;
+  border:1px solid #2d2f36;
+  border-radius:14px;
+  padding:20px;
+  color:#d1d5db;
+">
+  <h3 align="center" style="margin:0; color:#a78bfa;">🧬 Institute for Experiential AI</h3>
+  <p align="center"><i>Data Scientist</i></p>
 
-<h3 align="center">🧬 Institute for Experiential AI</h3>
-<div align="center"><i>Data Scientist</i></div>
-<br/>
-
-• 💸 **$300k Saved**: Orchestrated NLP pipeline for 172k documents.<br/>
-• 🎯 **97% Capture Rate**: Engineered ML model for claim complexity.<br/>
-• ⚡ **2× Faster Ops**: Optimized Agentic AI workflow (4 → 2 days).
-
+  • <b>$300k savings</b> from NLP automation.<br/>
+  • <b>97% accuracy</b> in complexity model.<br/>
+  • <b>2× ops speed-up</b> using agentic workflows.
+</div>
 </td>
+
 <td width="50%" valign="top">
+<div style="
+  background:#0d1117;
+  border:1px solid #2d2f36;
+  border-radius:14px;
+  padding:20px;
+  color:#d1d5db;
+">
+  <h3 align="center" style="margin:0; color:#60a5fa;">🔷 LTIMindtree</h3>
+  <p align="center"><i>Data Scientist</i></p>
 
-<h3 align="center">🔷 LTIMindtree</h3>
-<div align="center"><i>Data Scientist</i></div>
-<br/>
-
-• ⏳ **800+ Hours Saved**: Deployed LLM-based ticket classifier.<br/>
-• 📈 **6% Accuracy Lift**: Validated RNN vs LLM performance.<br/>
-• 🚀 **30% Faster**: Optimized Azure Synapse & PySpark pipelines.
-
+  • <b>800+ hours saved</b> via LLM classifier.<br/>
+  • <b>6% accuracy boost</b> from model upgrade.<br/>
+  • <b>30% faster pipelines</b> via Synapse tuning.
+</div>
 </td>
+
 </tr>
 </table>
+
+</div>
+
 
 ---
 
@@ -217,3 +191,47 @@ Deployed optimized PyTorch model for real-time streaming.
 </table>
 
 ---
+
+<!-- ======================================================================= -->
+<!--                              WEEKLY STATS                                -->
+<!-- ======================================================================= -->
+
+## 📊 **Dev Metrics**
+
+<div align="center">
+  <!-- 🔥 Contribution Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=radical&hide_border=true&background=0D1117" 
+    height="180"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- 📈 Contribution Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saideep-arikontham&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" 
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- 👁️ Profile Views + Footer -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=saideep-arikontham&style=flat-square&color=blueviolet" 
+  />
+  
+  <br/><br/>
+  
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=tokyonight" 
+    width="100%" 
+  />
+</div>
+
+
+
+
+<br/><br/>
