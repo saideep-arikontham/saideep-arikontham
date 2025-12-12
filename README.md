@@ -1,15 +1,11 @@
-<!-- ======================================================================= -->
-<!--                           HEADER - PREMIUM DESIGN                        -->
-<!-- ======================================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Saideep%20Arikontham&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20•%20GenAI%20Architect%20•%20ML%20Engineer&descAlignY=65&descAlign=50&theme=tokyonight" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Saideep%20Arikontham&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20•%20GenAI%20Architect%20•%20ML%20Engineer&descAlignY=65&descAlign=50&theme=tokyonight&fontFace=Orbitron" width="100%" />
 
 <br/>
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+Intelligent+LLM+Systems;Designing+Agentic+AI+Workflows;Engineering+High-Impact+ML+Pipelines;Transforming+Business+Through+GenAI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+Intelligent+LLM+Systems;Designing+Agentic+AI+Workflows;Engineering+High-Impact+ML+Pipelines;Transforming+Business+Through+GenAI" />
 
 <br/>
 
@@ -56,7 +52,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 <!--                              WEEKLY STATS                                -->
 <!-- ======================================================================= -->
 
-## 📊 **Weekly Dev Metrics**
+## 📊 **Daily Dev Metrics**
 
 
 <div align="center">
