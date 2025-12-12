@@ -40,8 +40,8 @@ I specialize in **ML, Deep Learning, NLP, Agentic AI, and MLOps**, focusing on e
 
 </div>
 
-> 🎓 **M.S. in Data Science** @ Northeastern University  
-> 🚀 Passionate about **developing AI/ML solutions for enterprises**
+> 🎓 **M.S. in Data Science** @ Northeastern University <br/>
+> 🚀 Passionate about **developing AI/ML solutions for enterprises** <br/>
 > 🔭 Exploring **Agentic AI frameworks**, **retrieval pipelines**, and **LLM orchestration**
 
 ---
