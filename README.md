@@ -36,7 +36,7 @@
 
 Hi, I'm **Saideep Arikontham**, a **Data Scientist with 3+ years** of experience building predictive models, LLM-powered systems, and scalable ML/AI pipelines.
 
-I specialize in **ML, Deep Learning, NLP, Agentic AI, and MLOps**, focusing on end-to-end solutions that deliver measurable value, from **$300k+ savings** to **deployingsub-200ms latency ML Systems**.
+I specialize in **ML, Deep Learning, NLP, Agentic AI, and MLOps**, focusing on end-to-end solutions that deliver measurable value, from **$300k+ savings** to **deploying sub-200ms latency ML Systems**.
 
 </div>
 
