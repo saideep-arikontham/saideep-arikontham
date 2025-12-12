@@ -52,34 +52,60 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 <!--                              WEEKLY STATS                                -->
 <!-- ======================================================================= -->
 
-## 📊 **Daily Dev Metrics**
+## 📊 **Dev Metrics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=radical&hide_border=true&background=0D1117" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saideep-arikontham&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saideep-arikontham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+  <!-- 🔥 Contribution Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=radical&hide_border=true&background=0D1117" 
+    height="180"
+  />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideep-arikontham&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=tokyonight&hide_border=true&background=00000000" width="45%" />
+  <!-- 📈 Contribution Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saideep-arikontham&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" 
+  />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=tokyonight" width="100%" />
-<br/>
-<img src="https://komarev.com/ghpvc/?username=saideep-arikontham&style=flat-square&color=blueviolet" />
+  <!-- 🏆 GitHub Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=saideep-arikontham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" 
+  />
 </div>
+
+<br/>
+
+<div align="center">
+  <!-- 🔤 Language Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideep-arikontham&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    width="45%" 
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- 👁️ Profile Views + Footer -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=saideep-arikontham&style=flat-square&color=blueviolet" 
+  />
+  
+  <br/><br/>
+  
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=tokyonight" 
+    width="100%" 
+  />
+</div>
+
 
 
 
