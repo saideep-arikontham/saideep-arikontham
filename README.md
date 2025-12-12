@@ -30,19 +30,14 @@
 
 ## ⚡ **About Me**
 
-<div align="center">
-<i style="color:#9aa5ce;">Data Scientist crafting production GenAI and ML systems that create real business impact.</i>
-</div>
-
 <br/>
+Hi, I'm **Saideep**, a Data Scientist with **3+ years** of experience building predictive models, LLM-powered systems, and scalable ML/AI pipelines.
 
-Hi, I'm **Saideep** — a Data Scientist with **3+ years** of experience building predictive models, LLM-powered systems, and scalable ML/AI pipelines.
-
-I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focusing on end-to-end solutions that deliver measurable value — from **$300k+ savings** to **sub-100ms inference latency**.
+I specialize in **ML, Deep Learning, NLP, Agentic AI, and MLOps**, focusing on end-to-end solutions that deliver measurable value — from **$300k+ savings** to **sub-100ms inference latency**.
 
 🎓 **M.S. in Data Science** @ Northeastern University  
 🔭 Exploring **Agentic AI frameworks**, **retrieval pipelines**, and **LLM orchestration**  
-🚀 Passionate about **democratizing AI for enterprise-scale adoption**
+🚀 Passionate about **developing AI/ML solutions for enterprises**
 
 ---
 
