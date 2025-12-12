@@ -133,7 +133,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 >
 > Built production-grade **RAG system** with Streamlit & OpenSearch. Containerized **Airflow ETL** pipeline using Docker & Docling for parsing.
 >
-> ![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logo=rag&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-2496ED?style=for-the-badge&logo=airflow&logoColor=white)
+> ![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logo=rag&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 <br/>
 
