@@ -1,6 +1,5 @@
 <div align="center">
 
-<div align="center">
   <div
     style="
       padding: 18px 22px;
@@ -34,7 +33,6 @@
       "
     />
   </div>
-</div>
 
 
 <br/>
