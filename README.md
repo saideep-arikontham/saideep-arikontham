@@ -1,6 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Saideep%20Arikontham&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20•%20GenAI%20Architect%20•%20ML%20Engineer&descAlignY=65&descAlign=50&theme=tokyonight&fontFace=Orbitron" width="100%" />
+<div align="center">
+  <div
+    style="
+      padding: 18px 22px;
+      border-radius: 26px;
+      background: radial-gradient(circle at top, #1e293b 0, #020617 55%, #000000 100%);
+      box-shadow: 0 18px 45px rgba(15,23,42,0.85);
+      display: inline-block;
+    "
+  >
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header
+      &text=Saideep%20Arikontham
+      &fontSize=60
+      &animation=fadeIn
+      &fontAlignY=32
+      &desc=Data%20Scientist%20•%20GenAI%20Architect%20•%20ML%20Engineer
+      &descAlignY=68
+      &descAlign=50
+      &descSize=20
+      &color=0:020617,50:1d4ed8,100:a855f7
+      &textBg=false
+      &fontColor=e5e7eb
+      &theme=tokyonight
+      &fontFace=Orbitron"
+      alt="Saideep Arikontham — Data Scientist • GenAI Architect • ML Engineer"
+      width="100%"
+      style="
+        max-width: 980px;
+        border-radius: 22px;
+        display: block;
+      "
+    />
+  </div>
+</div>
+
 
 <br/>
 
