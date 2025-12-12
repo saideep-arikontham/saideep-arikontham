@@ -1,49 +1,24 @@
 <div align="center">
 
-  <!-- ======================================================================= -->
-  <!--                                HERO HEADER                              -->
-  <!-- ======================================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Saideep%20Arikontham&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20•%20GenAI%20Architect%20•%20ML%20Engineer&descAlignY=65&descAlign=50&theme=tokyonight&fontFace=Orbitron" width="100%" />
 
-  <div
-    style="
-      padding: 18px 22px;
-      border-radius: 26px;
-      background: radial-gradient(circle at top, #597cb4ff 0, #0c207bff 55%, #000000 100%);
-      box-shadow: 0 18px 45px rgba(103, 123, 171, 0.85);
-      display: inline-block;
-    "
-  >
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Saideep%20Arikontham&fontSize=60&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20•%20GenAI%20Architect%20•%20ML%20Engineer&descAlignY=68&descAlign=50&descSize=20&color=0:020617,50:1d4ed8,100:a855f7&textBg=false&fontColor=e5e7eb&theme=tokyonight&fontFace=Orbitron"
-      alt="Saideep Arikontham — Data Scientist • GenAI Architect • ML Engineer"
-      width="100%"
-      style="
-        max-width: 980px;
-        border-radius: 22px;
-        display: block;
-      "
-    />
-  </div>
+<br/>
 
-  <br/>
+<!-- Animated Typing Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+Intelligent+LLM+Systems;Designing+Agentic+AI+Workflows;Engineering+High-Impact+ML+Pipelines;Transforming+Business+Through+GenAI" />
 
-  <!-- Animated Typing Banner -->
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+Intelligent+LLM+Systems;Designing+Agentic+AI+Workflows;Engineering+High-Impact+ML+Pipelines;Transforming+Business+Through+GenAI"
-  />
+<br/>
 
-  <br/>
-
-  <!-- Social Badges -->
-  <a href="https://github.com/saideep-arikontham">
-    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" />
-  </a>
-  <a href="https://linkedin.com/in/saideep18">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arikontham.s@northeastern.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<!-- Social Badges -->
+<a href="https://github.com/saideep-arikontham">
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" />
+</a>
+<a href="https://linkedin.com/in/saideep18">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:arikontham.s@northeastern.edu">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -56,7 +31,7 @@
 ## ⚡ **About Me**
 
 <div align="center">
-  <i style="color:#9aa5ce;">Data Scientist crafting production GenAI and ML systems that create real business impact.</i>
+<i style="color:#9aa5ce;">Data Scientist crafting production GenAI and ML systems that create real business impact.</i>
 </div>
 
 <br/>
@@ -74,10 +49,11 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 <br/>
 
 <!-- ======================================================================= -->
-<!--                              DAILY DEV METRICS                           -->
+<!--                              WEEKLY STATS                                -->
 <!-- ======================================================================= -->
 
 ## 📊 **Daily Dev Metrics**
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=radical&hide_border=true&background=0D1117" height="180"/>
@@ -91,6 +67,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
   <img src="https://komarev.com/ghpvc/?username=saideep-arikontham&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="saideep-arikontham" />
 </div>
 
+
 <br/><br/>
 
 <!-- ======================================================================= -->
@@ -101,33 +78,33 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 <div align="center">
 
-  <!-- DevIcon Stack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
+<!-- DevIcon Stack -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
 
-  <br/>
+<br/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" alt="Numpy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" alt="Numpy" />
 
-  <br/>
+<br/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="50" height="50" alt="Spark" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="50" height="50" alt="Airflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="50" height="50" alt="Spark" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="50" height="50" alt="Airflow" />
 
-  <br/><br/>
+<br/><br/>
 
-  🧠 <b>Core Strengths:</b><br/>
-  <i>RAG Pipelines • Agentic AI • ML Systems • Feature Engineering • A/B Testing • Distributed ETL</i>
+🧠 <b>Core Strengths:</b>  
+<i>RAG Pipelines • Agentic AI • ML Systems • Feature Engineering • A/B Testing • Distributed ETL</i>
 
 </div>
 
@@ -136,7 +113,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 <br/>
 
 <!-- ======================================================================= -->
-<!--                            PROFESSIONAL EXPERIENCE                       -->
+<!--                            PROFESSIONAL EXPERIENCE                        -->
 <!-- ======================================================================= -->
 
 ## 💼 **Professional Impact**
@@ -162,7 +139,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 <td width="33%" valign="top">
 
 ### 📓 arXiv RAG Chatbot  
-<i>Semantic Search Engine for Research</i>
+<i align="center">Semantic Search Engine for Research</i>
 
 Production-ready **RAG system** using *OpenSearch*, *Streamlit*, and *Airflow*.  
 Containerized ETL with **Docling** for PDF parsing.  
@@ -206,14 +183,14 @@ Deployed optimized PyTorch model for real-time streaming.
 ## 🏆 **Achievements & Activity**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saideep-arikontham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=saideep-arikontham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideep-arikontham&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=tokyonight&hide_border=true&background=00000000" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideep-arikontham&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=tokyonight&hide_border=true&background=00000000" width="45%" />
 </div>
 
 ---
@@ -221,7 +198,8 @@ Deployed optimized PyTorch model for real-time streaming.
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=tokyonight" width="100%" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=saideep-arikontham&style=flat-square&color=blueviolet" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=tokyonight" width="100%" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=saideep-arikontham&style=flat-square&color=blueviolet" />
 </div>
+
