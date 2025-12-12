@@ -63,8 +63,26 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saideep-arikontham&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="saideep-arikontham" />
+<img src="https://github-profile-trophy.vercel.app/?username=saideep-arikontham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideep-arikontham&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=tokyonight&hide_border=true&background=00000000" width="45%" />
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=tokyonight" width="100%" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=saideep-arikontham&style=flat-square&color=blueviolet" />
+</div>
+
 
 
 <br/><br/>
@@ -194,33 +212,3 @@ Deployed optimized PyTorch model for real-time streaming.
 </table>
 
 ---
-
-<br/>
-
-<!-- ======================================================================= -->
-<!--                              ACHIEVEMENTS                                -->
-<!-- ======================================================================= -->
-
-## 🏆 **Achievements & Activity**
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saideep-arikontham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideep-arikontham&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saideep-arikontham&theme=tokyonight&hide_border=true&background=00000000" width="45%" />
-</div>
-
----
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=tokyonight" width="100%" />
-<br/>
-<img src="https://komarev.com/ghpvc/?username=saideep-arikontham&style=flat-square&color=blueviolet" />
-</div>
-
