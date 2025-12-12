@@ -133,7 +133,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 >
 > Built production-grade **RAG system** with Streamlit & OpenSearch. Containerized **Airflow ETL** pipeline using Docker & Docling for parsing.
 >
-> <img src="https://img.shields.io/badge/RAG-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/OpenSearch-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2e2f4e?style=flat-square" />
+> ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <br/>
 
@@ -142,7 +142,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 >
 > Fine-tuned **BigBird-Roberta** using LoRA on 4000+ resumes. Achieved **90% pairwise ranking accuracy** to reduce ATS bias.
 >
-> <img src="https://img.shields.io/badge/LLMs-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/Fine--Tuning-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/HuggingFace-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/NLP-2e2f4e?style=flat-square" />
+> ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-81c8be?style=for-the-badge&logo=huggingface&logoColor=black)
 
 <br/>
 
@@ -151,7 +151,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 >
 > Developed **CNN + PyTorch** model achieving 92% accuracy. Optimized for **sub-100ms latency** using ResNet & OpenCV.
 >
-> <img src="https://img.shields.io/badge/Computer_Vision-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/PyTorch-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-2e2f4e?style=flat-square" /> <img src="https://img.shields.io/badge/CNNs-2e2f4e?style=flat-square" />
+> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
