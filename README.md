@@ -73,12 +73,20 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 <div align="center">
 
-<!-- Icons for supported tools -->
-<img src="https://skillicons.dev/icons?i=python,cpp,aws,azure,pytorch,sklearn,pandas,docker,postgres&theme=dark" />
-<br/>
-<!-- Badges for tools without simple icons in the set -->
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<!-- DevIcon Stack -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="50" height="50" alt="Spark" style="margin: 10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="50" height="50" alt="Airflow" style="margin: 10px" />
 
 <br/>
 
