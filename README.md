@@ -8,8 +8,8 @@
     style="
       padding: 18px 22px;
       border-radius: 26px;
-      background: radial-gradient(circle at top, #1e293b 0, #020617 55%, #000000 100%);
-      box-shadow: 0 18px 45px rgba(15,23,42,0.85);
+      background: radial-gradient(circle at top, #597cb4ff 0, #0c207bff 55%, #000000 100%);
+      box-shadow: 0 18px 45px rgba(103, 123, 171, 0.85);
       display: inline-block;
     "
   >
