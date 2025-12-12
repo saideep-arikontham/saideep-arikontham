@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Saideep%20Arikontham&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20•%20GenAI%20Architect%20•%20ML%20Engineer&descAlignY=65&descAlign=50&theme=tokyonight&fontFace=Orbitron" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Saideep%20Arikontham&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist&descAlignY=65&descAlign=50&theme=tokyonight&fontFace=Orbitron" width="100%" />
 
 <br/>
 
