@@ -59,7 +59,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 ## 📊 **Weekly Dev Metrics**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saideep-arikontham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=saideep-arikontham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="60%" />
 </div>
 
 <br/><br/>
@@ -72,7 +72,7 @@ I specialize in **NLP, Agentic AI, RAG architectures, and Deep Learning**, focus
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,aws,azure,pytorch,tensorflow,docker,kubernetes,git,linux,postgres,mongodb,kafka,fastapi,flask,vscode,idea&perline=15&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,aws,azure,pytorch,tensorflow,docker,kubernetes,git,linux,postgres,mongodb,kafka,fastapi,flask,vscode,idea&perline=10&theme=dark" />
 
 <br/>
 
